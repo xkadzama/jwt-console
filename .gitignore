@@ -1,0 +1,6 @@
+.env
+LocalStorage.txt
+.idea
+.venv
+__pycache__
+
